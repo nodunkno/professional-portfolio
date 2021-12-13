@@ -1,0 +1,92 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+
+.background-image {
+    background-image: url(/assets/images/computer.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}  
+
+body {
+    color: #2c3539;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    padding: 40px 25px;
+    background-color: #659ec7;
+}
+
+header a {
+    text-decoration: none;
+    color: #2c3539;
+}
+
+header nav {
+    float: right;
+    margin: 7px 0px;
+}
+
+header nav ul li {
+    display: inline;
+}
+
+header nav ul li a {
+    margin: 0 30px;
+    font-weight: lighter;
+    font-size: 22px;
+}
+
+p {
+    color: black;
+}
+
+section {
+    margin: 100px 0px 100px 0px;
+}
+
+section div ul li {
+    display: inline;
+    word-spacing: 200px;
+}
+
+.about-me {
+    position: absolute;
+    top: 20px;
+    left: 16px;
+    font-weight: bolder;
+    color: black;
+}
+
+.image1 {
+    position: absolute;
+    background-size: contain;
+    width: 200px;
+    height: 200px;
+    top: 200px;
+    left: 16px;
+}
+
+.project {
+    position: absolute;
+    top: 500px;
+    left: 16px;
+    font-weight: bolder;
+    color: black;
+}
+
+.run-buddy {
+    border: 15px #ADD8E6;
+}
+
+.contact-me {
+    position: absolute;
+    top: 1000px;
+    left: 16px;
+    font-weight: bolder;
+    color: black;
+
+}
