@@ -4,7 +4,7 @@
   }
 
 .background-image {
-    background-image: url(assets/images/computer.jpg);
+    background-image: url(/assets/images/computer.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     height: 100vh;
@@ -73,6 +73,14 @@ section div ul li {
 .project {
     position: absolute;
     top: 500px;
+    left: 16px;
+    font-weight: bolder;
+    color: black;
+}
+
+.sportlytics {
+    position: absolute;
+    top: 1000px;
     left: 16px;
     font-weight: bolder;
     color: black;
