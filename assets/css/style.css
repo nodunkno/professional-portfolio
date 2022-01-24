@@ -4,7 +4,7 @@
   }
 
 .background-image {
-    background-image: url(/assets/images/computer.jpg);
+    background-image: url(assets/images/computer.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     height: 100vh;
